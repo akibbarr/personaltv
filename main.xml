@@ -8,7 +8,7 @@ http://103.89.248.18:8082/1LIVE/tracks-a1/index.fmp4.m3u8?token=7e6b10d2877a17c9
 http://103.89.248.26:8082/Bein-hd/tracks-v1/index.fmp4.m3u8?token=355bdff35eb0278d69ec4bfc71d292a84d6c5259-4e24bc73d8f84378c04e54dd61ae8be8-1719089638-1719078838
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_n0MjdgkrP1eId4ysNshsCnnnlzd2j1xHYecd9XqbVRDhs=s176-c-k-c0x00ffffff-no-rj" group-title="Bangladeshi",SKY SPORTS CRICKET
 http://103.89.248.26:8082/Sky-Sports-Cricket/tracks-a1/index.fmp4.m3u8?token=99a93106dbdd2cd49f17913219777183e0303ffe-f08fb4ccd46ffa20d4ecb530731f3a54-1719089723-1719078923
-#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/154_144.png" group-title="Bangladeshi",SONY TEN 2
-http://103.89.248.26:8082/en3-36/tracks-a1/index.fmp4.m3u8?token=e27356d84575190e3a9e82cf8295525af9cfbd82-2e5c9e949bcd65f3a03f6feb3ca0a140-1719089820-1719079020
+#EXTINF:-1 tvg-logo="https://dtat2ks7dludr.cloudfront.net/spnsportsindia/images/sonysportsnetworklogo_latest.png" group-title="Bangladeshi",SONY TEN 2
+https://jiotv-portal.dinesh29.com.np/live/jiotv-portal-universal/ten-2-4k/index.ts
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/154_144.png" group-title="Bangladeshi",ASTRO SUPERSPORTS 4
 https://jiotv-portal.dinesh29.com.np/live/jiotv-portal-universal/astro-supersports-4/index.ts
