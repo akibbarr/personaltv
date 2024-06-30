@@ -9,7 +9,7 @@ http://103.89.248.26:8082/Bein-hd/tracks-v1/index.fmp4.m3u8?token=355bdff35eb027
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_n0MjdgkrP1eId4ysNshsCnnnlzd2j1xHYecd9XqbVRDhs=s176-c-k-c0x00ffffff-no-rj" group-title="Bangladeshi",SKY SPORTS CRICKET
 http://103.89.248.26:8082/Sky-Sports-Cricket/tracks-a1/index.fmp4.m3u8?token=99a93106dbdd2cd49f17913219777183e0303ffe-f08fb4ccd46ffa20d4ecb530731f3a54-1719089723-1719078923
 #EXTINF:-1 tvg-logo="https://dtat2ks7dludr.cloudfront.net/spnsportsindia/images/sonysportsnetworklogo_latest.png" group-title="Bangladeshi",SONY TEN 2
-https://jiotv-portal.dinesh29.com.np/live/jiotv-portal-universal/ten-2-4k/index.ts
+http://rolextv.asia:80/live/thieves/stayaway/153.m3u8
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/197_144.png" group-title="Bangladeshi",ASTRO CRICKET
 https://jiotv-portal.dinesh29.com.np/live/jiotv-portal-universal/astro-cricket-4k/index.ts
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/154_144.png" group-title="Bangladeshi",ASTRO COPA
