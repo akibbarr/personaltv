@@ -18,5 +18,11 @@ https://jiotv-portal.dinesh29.com.np/live/jiotv-portal-universal/astro-superspor
 http://113.212.111.246:8080/hls/col12.m3u8
 #EXTINF:-1 tvg-logo="http://103.112.62.79:5555/d/FTP-2/Movies/Hindi%20Movies/2000-2007/Deewane%20Huye%20Paagal%20(2005)/poster.jpg?sign=eWfk_upoiEpTAO2n1T7AkpvQyKkGF4s4QU6p4_wFodE=:0" group-title="Kids", Deewane Huye Paagal
 http://103.112.62.79:5555/d/FTP-2/Movies/Hindi%20Movies/2000-2007/Deewane%20Huye%20Paagal%20(2005)/Deewane%20Huye%20Paagal%20(2005)%20WEBDL-1080p.mkv?sign=uUYTmuk6UqsmGuLRDdcHcATVCGxq9ceZp6cXCVDWa9I=:0
-#EXTINF:-1 tvg-logo="http://103.112.62.79:5555/d/FTP-2/Movies/Hindi%20Movies/2000-2007/Deewane%20Huye%20Paagal%20(2005)/poster.jpg?sign=eWfk_upoiEpTAO2n1T7AkpvQyKkGF4s4QU6p4_wFodE=:0" group-title="Kids", MCI VS MUN
-https://a2uy.short.gy/MU-V-MCI/Join-@HimelOP_Official/Zubayer_Op.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Kids", 36DAYS E1
+http://103.121.217.121:5555/d/FTP-2/TV%20Series%20Hindi/36%20Days/Season%201/36%20Days%20-%20S01E01%20-%20The%20Intruder's%20Arrival%20WEBDL-1080p.mkv?sign=HL1z7xefLpKlQNYTDKxAW1Ry4B9ugTZdGQcb4UAn5X0=:0
+#EXTINF:-1 tvg-logo="" group-title="Kids", 36DAYS E2
+http://103.121.217.121:5555/d/FTP-2/TV%20Series%20Hindi/36%20Days/Season%201/36%20Days%20-%20S01E02%20-%20Hidden%20Agendas%20WEBDL-1080p.mkv?sign=Zt6mSV8acd0yjRn2dQaAq3Eqk3US-mYr7lJm86beSns=:0
+#EXTINF:-1 tvg-logo="" group-title="Kids", 36DAYS E3
+http://103.121.217.121:5555/d/FTP-2/TV%20Series%20Hindi/36%20Days/Season%201/36%20Days%20-%20S01E03%20-%20Beneath%20the%20Surface%20WEBDL-1080p.mkv?sign=5iUV-TEgH3ZgZdv6T3DmLx7IZJ8EoFi68ocmx6vhmko=:0
+#EXTINF:-1 tvg-logo="" group-title="Kids", 36DAYS E4
+http://103.121.217.121:5555/d/FTP-2/TV%20Series%20Hindi/36%20Days/Season%201/36%20Days%20-%20S01E04%20-%20Denzel's%20Dilemma%20-%20Seduced%20and%20Blackmailed%20WEBDL-1080p.mkv?sign=K3zkiBbQ5nfpCxsKLUspUKeTMZcOOsqdNgK3Gstl-U8=:0
