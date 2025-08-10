@@ -1,7 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="Wednesday S1 E2" tvg-logo="https://www.themoviedb.org/t/p/w1280/36xXlhEpQqVVPuiZhfoQuaY4OlA.jpg" group-title="Series",Wednesday S1 E2
-http://ftp16.circleftp.net/FILE/Dubbed%20TV%20Series%20%26%20Shows/Wednesday%20%28TV%20Series%202022-%29%20%5BDual%20Audio%5D%20%5BHin%2BEng%5D/Season%201%201080p/Wednesday.S01E02.Woe.Is.the.Loneliest.Number.1080p.NF.WEB-DL.DDP5.1.Atmos.x264-Vegamovies.to.mkv
-
-#EXTINF:-1 tvg-id="Bodyguard" tvg-logo="http://circleftp.net/wp-content/uploads/2025/04/MV5BMDczMDEyNjktNjBkZi00ODdhLTliMTEtZDQ3NjcyYmNlNjE5XkEyXkFqcGc@._V1_.jpg" group-title="Movie",Bodyguard
-http://index1.circleftp.net/FILE/Hindi%20Movies/2011/Bodyguard%202011%20BluRay%201080p%20Hindi%20DD%205.1%20x264%20ESub/Bodyguard%202011%20BluRay%201080p%20Hindi%20DD%205.1%20x264%20ESub.mkv
-
+#EXTINF:-1 tvg-id="8 A.M. Metro" tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/65/8_A.M._Metro_Theatrical_Release_Poster.png" group-title="Movies",8 A.M. Metro
+http://index1.circleftp.net/FILE/Hindi%20Movies/2024/8%20A.M.%20Metro%20%282024%29%201080p%20WEB-DL%20Hindi%20H264/8%20A.M.%20Metro%20%282024%29%201080p%20WEB-DL%20Hindi%20H264.mkv
+#EXTINF:-1 tvg-id="Aayushmati Geeta Matric Pass" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/ff/This_is_a_poster_of_movie_Aayushmati_Geeta_Matric_Pass.jpeg" group-title="Movies",Aayushmati Geeta Matric Pass
+http://index1.circleftp.net/FILE/Hindi%20Movies/2024/Aayushmati%20Geeta%20Matric%20Pass%20%282024%29%201080p%20HDTC%20Hindi%20x264/Aayushmati%20Geeta%20Matric%20Pass%20%282024%29%201080p%20HDTC%20Hindi%20x264.mkv
